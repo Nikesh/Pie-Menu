@@ -1,6 +1,6 @@
 # Simple configurable Pie Menu
 
-Use this Pie Menu on your projects, it's simple and fully customizable!
+Use this Pie Menu in your projects, it's simple and fully customizable!
 
 ## Usage
 
