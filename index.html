@@ -74,7 +74,7 @@
 			<h5>* Please read README.md file for explanation.</h5>
 		</div>
 		<script>
-		function PieMenuInit(){		
+		function RadicalMenuInit(){		
 			$('#outer_container').RadicalMenu({
 				'starting_angel':$('#s_angle').val(),
 				'angel_difference' : $('#diff_angle').val(),
@@ -84,7 +84,7 @@
 		$(function() {          
 			$("#submit_button").click(function() {reset(); }); 
 			$( "#outer_container" ).draggable();
-			PieMenuInit();
+			RadicalMenuInit();
 			
 		});
 		function reset(){
@@ -92,7 +92,7 @@
 			$(".menu_button").trigger('click');
 			
 			$("#info").fadeIn("slow").fadeOut("slow");
-			PieMenuInit();
+			RadicalMenuInit();
 		}
 		</script>
 
