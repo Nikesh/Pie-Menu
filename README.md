@@ -1,4 +1,4 @@
-Path-Menu
+Pie Menu
 =========
 
-Simple configurable Path Menu written in Jquery and CSS3
+Simple configurable Pie Menu(like Path menu) written in Jquery and CSS3
